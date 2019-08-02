@@ -18,14 +18,15 @@ In my sophomore year of college, I took 2 semesters of signal theory classes. I 
 Demonstrates above functions with simple examples of `y=cos(pi*n)` and `y=sin(pi/2*n)`
 
 ### Outputs of y=cos(pi*n) example
-frequency spectrum: [0, 0, 0, 0, 8.0, 0, 0, 0]
-original function: 1.0*cos(pi*n) (could be an alias)
+frequency spectrum (calculated using dft()): [0, 0, 0, 0, 8.0, 0, 0, 0]
+original function (calculated using idft()): 1.0*cos(pi*n) (could be an alias)
 graph: ![image](https://user-images.githubusercontent.com/13570258/62342101-a7456780-b4b3-11e9-8b23-450cd2db4b82.png)
 
 ### Outputs of y=sin(pi/2*n) example
-frequency spectrum: [0, 0, 0, 0, 8.0, 0, 0, 0]
-original function: 1.0*cos(pi*n) (could be an alias)
-graph: ![image](https://user-images.githubusercontent.com/13570258/62342101-a7456780-b4b3-11e9-8b23-450cd2db4b82.png)
+frequency spectrum (calculated using dft()): [0, -2j, 0, 2j]
+original function (calculated using idft()): sin(pi*n/2)
+graph: ![image](https://user-images.githubusercontent.com/13570258/62342270-44080500-b4b4-11e9-964b-3e29cc865fba.png)
+
 
 
 
