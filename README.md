@@ -1,7 +1,7 @@
 # dft
 Discrete Fourier Transform
 
-In my sophomore year of college, I took 2 semesters of signal theory classes. I found that it was really easy to forget the concepts that I learned if not actively working with them. I created Python versions of the DFT and inverse DFT algorithms to brush up on the concept of DFT.
+In my sophomore year of college, I took 2 semesters of signal theory classes. I found that it was really easy to forget the concepts that I learned if I wasn't actively working with them. I created Python versions of the DFT and inverse DFT algorithms to brush up on the concept of DFT.
 
 ## dft.py
 
