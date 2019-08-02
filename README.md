@@ -24,7 +24,7 @@ graph of frequency spectrum: ![image](https://user-images.githubusercontent.com/
 
 ### Outputs of y=sin(pi/2*n) demo
 frequency spectrum (calculated using `dft()`): [0, -2j, 0, 2j]  
-original function (calculated using `idft()`): sin(pi*n/2)  
+original function (calculated using `idft()`): sin(pi*n/2) (could be an alias)
 graph of frequency spectrum: ![image](https://user-images.githubusercontent.com/13570258/62342270-44080500-b4b4-11e9-964b-3e29cc865fba.png)
 
 
