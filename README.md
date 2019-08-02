@@ -11,7 +11,7 @@ In my sophomore year of college, I took 2 semesters of signal theory classes. I 
 
 ## idft.py
 
-`def idft(freq_spectrum)`: Function that converts frequency spectrum into a time domain sinusoid. As of now, it's only capable of providing an alias of the original function. I haven't had time to implement a way to find the correct frequency based on user given criteria yet.
+`def idft(freq_spectrum)`: Function that converts frequency spectrum into a time domain sinusoid. Use `sympy` Python libary to model symbolic equations. As of now, it's only capable of providing an alias of the original function. I haven't had time to implement a way to find the correct frequency based on user given criteria yet.
 
 ## test.py
 
